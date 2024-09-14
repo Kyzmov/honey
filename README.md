@@ -1,2 +1,1 @@
-# honey
-Simple honey website
+Simple website for selling honey products.
